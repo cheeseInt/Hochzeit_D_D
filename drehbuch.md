@@ -83,12 +83,12 @@ Freude gemacht."
 
 `[2.3]` **[ANDREAS]** *(klopft aufs Klemmbrett, energisch)*
 "Aber jetzt ist es höchste Zeit, dass wir das Team wieder zum
-**Trainingslager** zusammenziehen. **WM 2026** wartet nicht — und
-hier auf dieser Bühne fängt sie heute an."
+**Trainingslager** zusammenziehen. **WM 2026** wartet nicht."
 
-`[2.4]` **[ANDREAS]** *(blickt augenzwinkernd ins Publikum)*
-"Und passt auf — wenn die Mannschaft mal steht, **fehlt immer noch
-einer**. Das werdet ihr gleich sehen."
+`[2.4]` **[ANDREAS]** *(seufzt, blickt aufs Klemmbrett, dann ins
+Publikum)*
+"Viel Arbeit, all die Spieler zusammenzuziehen… mal schauen, ob wir
+heute auch wirklich **alle hier haben**."
 
 `[2.5]` *Andreas pfeift kurz.*
 
