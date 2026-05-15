@@ -3,8 +3,11 @@
 **Anlass:** Hochzeit Daniela & David, 3. Juli 2026
 **Produktion:** Andreas, Stefanie, Susanne, Matthias, Noah, Ueli
 **Geplante Dauer:** ca. 10 Minuten
-**Version:** v4 (11. Mai 2026) — Hochdeutsch, Tasknummern, 2010 = Stefanies
-Aufnahme, Leo bei Messi, Daniela vor David ins Team, Ex-Freunde-Witz.
+**Version:** v5 (15. Mai 2026) — Szene 2 gestrafft (weniger Rückblick,
+direkter Sprung ins Trainingslager), Refrain in 4.11 vorgezogen, Leo-Pointe
+entschärft, Götti-Witz statt Ex-Freunde-Witz, Szene 7 verschlankt (Andreas-
+Sprüche entfernt, Schluss-Chant gestrichen), Liechtensteiner Rheinpark
+Stadion korrigiert.
 
 > **Tasknummern:** Jeder Beat hat eine Nummer im Format `Szene.Beat`
 > (z.B. `[4.7]`). Damit kann man präzise referenzieren ("Beat 5.13 bitte
@@ -74,22 +77,18 @@ Er sieht das Chaos kurz an, schüttelt den Kopf, wendet sich ans
 Publikum.*
 
 `[2.2]` **[ANDREAS]** *(zum Publikum)*
-"Liebe Gäste — kurz ein historischer Rückblick, bevor wir hier
-loslegen. **2010** — auch ein WM-Jahr, auch eine Sommer-Hochzeit.
-Damals war ich, Andreas, ja schon längst im **Team Altwegg** —
-ich bin sozusagen der Stamm-Spieler. Aber die **Stefi** —
-die musste damals erst noch ins Team aufgenommen werden."
+"Liebe Gäste — kurz zur Erinnerung: **2010**, auch WM-Jahr, da hat
+das **Team Altwegg** schon einmal aufgespielt. Hat geklappt, hat
+Freude gemacht."
 
-`[2.3]` **[ANDREAS]** *(zeigt grosszügig auf Stefanie, die kurz dehnt
-und winkt)*
-"Und seither ist sie unverzichtbar. Wahrscheinlich hat damals jemand
-gedacht: «Das war einmalig.» Aber nein — das wird jetzt
-**Familien-Tradition**. Bei jeder Hochzeit nehmen wir wieder jemanden
-neu ins Team auf."
+`[2.3]` **[ANDREAS]** *(klopft aufs Klemmbrett, energisch)*
+"Aber jetzt ist es höchste Zeit, dass wir das Team wieder zum
+**Trainingslager** zusammenziehen. **WM 2026** wartet nicht — und
+hier auf dieser Bühne fängt sie heute an."
 
 `[2.4]` **[ANDREAS]** *(blickt augenzwinkernd ins Publikum)*
-"Und passt auf — auch heute wird wieder gelten: Wenn die Mannschaft
-mal steht, **fehlt immer noch einer**. Das werdet ihr gleich sehen."
+"Und passt auf — wenn die Mannschaft mal steht, **fehlt immer noch
+einer**. Das werdet ihr gleich sehen."
 
 `[2.5]` *Andreas pfeift kurz.*
 
@@ -165,8 +164,9 @@ wer hat die?"
 `[4.9]` **[SUSANNE]** *"Vier!"*
 `[4.10]` **[MATTHIAS]** *"Fünf!"*
 
-`[4.11]` **[ANDREAS]** *(schaut entsetzt aufs Klemmbrett)*
-"Da fehlt ja die Hälfte!"
+`[4.11]` **[ANDREAS]** *(kratzt sich am Kopf, schaut aufs Klemmbrett,
+zählt nochmals nach, runzelt die Stirn)*
+"Moment mal — da stimmt doch was nicht…"
 
 > 🔁 **REFRAIN #1** *(noch ohne Publikum)*
 
@@ -231,7 +231,7 @@ ein.*
 bei Messi**…"
 
 `[4.33]` **[ANDREAS]** *(nickt anerkennend)*
-"Aaaah. Dann ist der **entschuldigt**!"
+"Aaaah, das macht Sinn. **Der lernt dort mehr als hier.**"
 
 `[4.34]` **[MATTHIAS]**
 "Und die **Elisabeth** war noch in **Tiefenwies Eier holen** —
@@ -288,29 +288,28 @@ Z.B. bis 11.*
 `[5.11]` **[ALLE + PUBLIKUM]** *(laut)*
 *"EINER FEHLT NOCH!"*
 
-`[5.12]` **[ANDREAS]** *(grinst breit, dreht sich zu Daniela)*
-"Genau. Daniela — bei deinen **Ex-Freunden** musste man ja immer
-ganz genau hinschauen, ob du diesmal endlich einen **Anständigen**
-gefunden hast."
+`[5.12]` **[ANDREAS]** *(dreht sich zu Daniela, augenzwinkernd zum
+Publikum)*
+"Genau. Und Daniela — als **Götti** schaue ich da natürlich ganz
+genau hin, was das für einer ist, den du da mitbringst."
 
 `[5.13]` *Daniela rollt die Augen / lacht — gespielt empört.*
 
 `[5.14]` **[ANDREAS]** *(zum Team und Publikum)*
-"Aber heute — heute hat sie jemanden mitgebracht. Wer ist denn
-unser **Wechselspieler**?"
+"Aber: Heute hat sie jemanden dabei. Wer ist denn unser
+**Wechselspieler**?"
 
 `[5.15]` **[UELI]** *(zögert kurz, grinst)*
 "…der **David**?"
 
-`[5.16]` *Stille. Alle drehen sich langsam zu Ueli, dann schauen
-sich an.*
+`[5.16]` *Stille. Alle drehen sich langsam zu Ueli, dann zueinander.*
 
-`[5.17]` **[ALLE IM CHOR]** *(staunend)*
+`[5.17]` **[ALLE IM CHOR]** *(staunend, mit aufgehender Erkenntnis)*
 "**David…?**"
 
-`[5.18]` **[ANDREAS]** *(räuspert sich, zeigt mit Klemmbrett ins
+`[5.18]` **[ANDREAS]** *(räuspert sich, winkt mit dem Klemmbrett ins
 Publikum)*
-"Der soll sich mal **vorstellen kommen**!"
+"Der soll sich doch bitte mal **vorstellen kommen**!"
 
 `[5.19]` *David wird aus dem Publikum geholt / kommt nach vorne.
 Wird in die Mitte gestellt, Team kreist ihn ein.*
@@ -334,69 +333,59 @@ Reuthe**?" `[?]`
 `[6.5]` **[MATTHIAS]**
 "**Frage vier:** Wie heisst der **Fürst**?" `[?]`
 
-`[6.6]` **[NOAH]**
-"**Frage fünf:** Bist du ein guter **Wechselspieler**?"
+`[6.6]` **[NOAH]** `[?]` *(TODO: konkrete Frage formulieren —
+idealerweise mit Insider / Sport-Bezug)*
+"**Frage fünf:** …"
 
-`[6.7]` **[UELI]**
-"**Frage sechs:** Kennst du die **Daniela**?"
+`[6.7]` **[UELI]** `[?]` *(TODO: konkrete Frage formulieren —
+idealerweise jüngerer Bezug, Tickets / Reisen / Spiel)*
+"**Frage sechs:** …"
 
-`[6.8]` **[DAVID]** *(soll antworten — Pointe!)*
+`[6.8]` **[DAVID]** *(antwortet auf die Fragen — Pointe je nach
+Frage!)*
 
-`[6.9]` **[ANDREAS]** *(legt David die Hand auf die Schulter)*
-"Und die wichtigste Frage: **Willst du sie heiraten?**"
+`[6.9]` **[ANDREAS]** *(legt David die Hand auf die Schulter,
+feierlich)*
+"So! Dann bist du jetzt offiziell **Teil vom Team Altwegg,
+WM-Edition 2026!**"
 
-`[6.10]` **[DAVID]** *(antwortet — wir hoffen "Ja!")*
-
-`[6.11]` *Alle nicken einander zu, kurze Pause.*
+`[6.10]` *Alle nicken einander zu, kurzer Applaus / Jubel —
+Übergang in Szene 7.*
 
 ---
 
 ## Szene 7 — Aufnahme ins Team (≈ 1 Min)
 
-`[7.1]` **[ANDREAS]** *(feierlich, mit Trillerpfeife)*
-"Dann — im **Namen vom Team Altwegg, WM-Edition 2026** —
-**nehmen wir dich in unser Team auf!**"
-
-`[7.2]` *Susanne überreicht David den signierten Ball (alle
+`[7.1]` *Susanne überreicht David den signierten Ball (alle
 Mitwirkenden haben vorher unterschrieben). Optional: Captain-Binde
 dazu.*
 
-> **Die folgenden Sprüche `[7.3]` bis `[7.8]` sind PLATZHALTER**
-> — werden in separater Spruch-Session mit Andreas individuell
-> entwickelt.
+> **Die folgenden Sprüche `[7.2]` bis `[7.6]` sind PLATZHALTER**
+> — werden in separater Spruch-Session individuell entwickelt.
 
-`[7.3]` **[ANDREAS]** *(als Götti der Braut & Trainer)*
-"David — als Götti gebe ich dir mein Patenkind. **Gib gut auf sie
-acht.** Und als Trainer sage ich dir: **du bist aufgestellt,
-Nummer elf.**"
-
-`[7.4]` **[STEFANIE]**
+`[7.2]` **[STEFANIE]**
 "Willkommen bei den Altweggs — bei uns kriegt jeder sein
 **eigenes Trikot mit Namen drauf**."
 
-`[7.5]` **[SUSANNE]**
+`[7.3]` **[SUSANNE]**
 "Ich habe gewusst, dass du einer von uns bist — du hast das gleiche
 **Lachen**."
 
-`[7.6]` **[MATTHIAS]**
+`[7.4]` **[MATTHIAS]**
 "Im Match des Lebens gibt es **Verlängerung, kein Penalty-Schiessen**.
 Bleib am Ball."
 
-`[7.7]` **[NOAH]**
+`[7.5]` **[NOAH]**
 "Willkommen. **Halbzeit ist erst.**"
 
-`[7.8]` **[UELI]**
+`[7.6]` **[UELI]**
 "Und wenn du mal **Tickets** brauchst — frag mich. Aber **nicht
-fürs Liechtensteiner Stadion**."
+fürs Lichtensteiner Rheinpark Stadion**."
 
-`[7.9]` *Alle umarmen David / klopfen ihm auf die Schulter.
+`[7.7]` *Alle umarmen David / klopfen ihm auf die Schulter.
 Daniela tritt zu ihm.*
 
-`[7.10]` **[ALLE + PUBLIKUM]** *(in Stadion-Art rhythmisch — Andreas
-dirigiert)*
-*"Da-vid! Da-vid! Da-vid!"*
-
-`[7.11]` *Trillerpfeife — Schluss-Musik kommt rein.*
+`[7.8]` *Trillerpfeife — Schluss-Musik kommt rein.*
 
 **ENDE**
 
@@ -416,7 +405,7 @@ dirigiert)*
 
 → Bei flotter Umsetzung **~10–11 Min**, bei vielen Lachern **~12 Min**.
 Reserveplan: Szene 6 auf 4 Fragen kürzen oder einzelne Sprüche in
-Szene 7 weglassen.
+Szene 7 (`[7.2]`–`[7.6]`) weglassen.
 
 ---
 
@@ -427,12 +416,15 @@ Szene 7 weglassen.
    - Bad Reuthe / Känzeli — passt das?
    - Welche Fürst-Anspielung (Liechtenstein?)?
    - Krimi-Dinner — gibt es eine konkrete Familiengeschichte?
-3. **Persönliche Sprüche** in Szene 7 (`[7.3]` bis `[7.8]`) — separate
-   Spruch-Session mit Andreas einplanen.
-4. **Statisten-Choreografie**: Von welcher Seite kommen Doris/Annina,
+3. **Neue Fragen für `[6.6]` (Noah) und `[6.7]` (Ueli)** — derzeit
+   als TODO markiert. Idealerweise je eine konkrete Frage mit
+   Insider / Sport-Bezug.
+4. **Persönliche Sprüche** in Szene 7 (`[7.2]` bis `[7.6]`) — separate
+   Spruch-Session einplanen.
+5. **Statisten-Choreografie**: Von welcher Seite kommen Doris/Annina,
    Thomas, Benjamin auf die Bühne? Wo stehen sie in der Reihe?
-5. **2010-Anspielung verfeinern** (Beat `[2.2]`/`[2.3]`): Möchten wir
-   hier eine konkrete Mini-Anekdote einbauen (z.B. wie Stefanie damals
-   aufgenommen wurde)?
-6. **Daniela-Übergabe** in Szene 5 (`[5.5]`): Andreas holt sie als
+6. **2010-Anspielung in Szene 2** (`[2.2]`): jetzt deutlich knapper —
+   ggf. mit Andreas nochmals durchgehen, ob die kurze Erwähnung
+   reicht oder noch ein Halbsatz mehr drinliegen soll.
+7. **Daniela-Übergabe** in Szene 5 (`[5.5]`): Andreas holt sie als
    Götti — könnte ein schöner Moment sein. Geht das so?
