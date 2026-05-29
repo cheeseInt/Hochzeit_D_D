@@ -26,12 +26,13 @@ Siehe `material.md` für die vollständige Liste.
 
 | # | Aufgabe | Verantwortlich | Bis wann | Status |
 |---|---------|----------------|----------|:------:|
-| B1 | Trikots besorgen (jeder selbst oder zentral?) | _?_ | 15.6. | `[ ]` |
-| B2 | 3 Fussbälle organisieren | _?_ | 15.6. | `[ ]` |
-| B3 | Trillerpfeife kaufen | _?_ | 15.6. | `[ ]` |
-| B4 | Panini-Album basteln (mit Familienfotos!) | _?_ | 22.6. | `[ ]` |
-| B5 | "Aufnahme-Ball" mit Unterschriften vorbereiten | _?_ | 22.6. | `[ ]` |
-| B6 | Musik-Playlist (Einlauf-/Trainings-Musik) | _?_ | 22.6. | `[ ]` |
+| B1 | Trikot-Bestand checken (sollte reichen) | alle | 21.6. (Probetag) | `[ ]` |
+| B2 | **7 Länder-Fussball-Schals besorgen** (inkl. Italien für David) | Andreas | 21.6. | `[ ]` |
+| B3 | 3 Fussbälle organisieren | _?_ | 15.6. | `[ ]` |
+| B4 | Trillerpfeife kaufen | _?_ | 15.6. | `[ ]` |
+| B5 | Panini-Album basteln (mit Familienfotos!) | _?_ | 22.6. | `[ ]` |
+| B6 | "Aufnahme-Ball" mit Unterschriften vorbereiten (optional) | _?_ | 22.6. | `[ ]` |
+| B7 | Musik-Playlist + Baschi "Bring en hei" als Einspieler | _?_ | 22.6. | `[ ]` |
 
 ## C. Proben
 

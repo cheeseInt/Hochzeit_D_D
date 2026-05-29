@@ -2,16 +2,30 @@
 
 ## Kostüme
 
-- [ ] **6 Fussball-Nationaltrikots** (Andreas, Stefanie, Susanne, Matthias, Noah, Ueli)
+- [ ] **6 Fussball-Nationaltrikots** für die Spielenden
+  (Andreas, Stefanie, Susanne, Matthias, Noah, Ueli)
   - Zuteilung in `rollen.md`
-  - Alternativ: jeder bringt sein eigenes
-- [ ] Optional: Trikots auch für Statisten (Doris, Thomas, Annina, Benjamin),
-  falls sie kurz mit auf die Bühne kommen
-- [ ] Optional: Trikot für **Daniela** (Braut — könnte super lustig sein)
-- [ ] Optional: Trikot für **David** als Ende-Gag (z.B. Schweiz, wenn er
-  ins Team aufgenommen wird)
+  - Sollten wir genug haben — **Bestandscheck an der Hauptprobe (21.6.)**
 - [ ] **Stutzen / Fussballsocken** — passend zu den Trikots
 - [ ] **Fussballschuhe oder Turnschuhe** (was passt zum Hochzeitsort?)
+
+## Schals — Aufnahme-Symbol
+
+Statisten und Hauptpersonen sind **nicht** im Trikot. Sie werden
+während der Vorführung aus der Hochzeitsgesellschaft nach vorne
+geholt und bekommen je einen **Länder-Fussball-Schal** umgehängt.
+
+→ **Organisation: Andreas. 7 Stück insgesamt.**
+
+- [ ] **Schal für Doris** (Länder-Fussball-Schal)
+- [ ] **Schal für Thomas**
+- [ ] **Schal für Annina**
+- [ ] **Schal für Benjamin**
+- [ ] **Schal für Elisabeth**
+- [ ] **Schal für Daniela** (Braut — wird in Szene 5 ins Team aufgenommen)
+- [ ] **Schal für David — Italien** (Südtirol-Bezug, Schlusspointe in Szene 7)
+  - Plan B falls Italien nicht klappt: andere passende Nation festlegen
+  - Bosnien-Herzegowina als Gag im Gespräch — eher over the top
 
 ## Bälle
 
@@ -35,6 +49,8 @@
 
 - [ ] **Einlauf-Musik** (Fussball-Stadion-Atmosphäre, z.B.
   Champions-League-Hymne oder Schweizer Nationalhymne-Variante)
+- [ ] **Baschi — "Bring en hei"** als Einspieler für `[5.15]`,
+  wenn David nach vorne geholt wird
 - [ ] **Stopp-/Wechsel-Signal** (kann auch nur Trillerpfeife sein)
 - [ ] Bei Bedarf: **Funkmikrofone** für Sprechrollen (Saal-abhängig)
 

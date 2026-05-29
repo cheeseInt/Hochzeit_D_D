@@ -3,26 +3,23 @@
 **Anlass:** Hochzeit Daniela & David, 3. Juli 2026
 **Produktion:** Andreas, Stefanie, Susanne, Matthias, Noah, Ueli
 **Geplante Dauer:** ca. 10 Minuten
-**Version:** v5 (15. Mai 2026) — Szene 2 gestrafft (weniger Rückblick,
-direkter Sprung ins Trainingslager), Refrain in 4.11 vorgezogen, Leo-Pointe
-entschärft, Götti-Witz statt Ex-Freunde-Witz, Szene 7 verschlankt (Andreas-
-Sprüche entfernt, Schluss-Chant gestrichen), Liechtensteiner Rheinpark
-Stadion korrigiert.
+**Version:** v6 (29. Mai 2026)
 
 > **Tasknummern:** Jeder Beat hat eine Nummer im Format `Szene.Beat`
-> (z.B. `[4.7]`). Damit kann man präzise referenzieren ("Beat 5.13 bitte
+> (z.B. `[4.7]`). Damit kann man präzise referenzieren ("Beat 5.7 bitte
 > umformulieren").
 > *Kursiv* = Bühnenanweisung, keine Sprechtexte.
 > `[?]` = noch zu klären.
 
 ---
 
-## Roter Faden & Refrain
+## Roter Faden & Aufnahme-Symbol
 
-- **2010 (Stefanies Aufnahme):** Andreas war schon immer im Team
-  Altwegg — bei seiner Hochzeit 2010 wurde **Stefanie** ins Team
-  aufgenommen. **2026** ist nun **David** dran. Tradition: bei jeder
-  Hochzeit kommt jemand Neues dazu.
+- **Schal-Aufnahme:** Jede Person, die ins Team kommt, bekommt
+  einen **Länder-Fussball-Schal** umgehängt. Das gilt für die
+  Statisten (Doris, Thomas, Annina, Benjamin), für **Elisabeth**,
+  für **Daniela** — und am Ende für **David** (Italien-Schal,
+  Bezug Südtirol).
 - **Refrain:** *"Wer fehlt noch?"* → *"Einer fehlt noch!"*
   Wird in Szene 4 viermal wiederholt, das Publikum macht ab dem
   dritten Mal mit. Finale Steigerung in Szene 5 — wer dort als
@@ -32,7 +29,7 @@ Stadion korrigiert.
 
 ## Cast
 
-**Spielende mit Sprechrollen:**
+**Spielende mit Sprechrollen (in Nationaltrikots):**
 - **Andreas** (57) — Trainer mit Trillerpfeife & Klemmbrett
 - **Stefanie** (46) — Spielerin
 - **Susanne** (61) — Spielerin / Wortführerin
@@ -40,16 +37,14 @@ Stadion korrigiert.
 - **Noah** (29) — Spieler (Liegestütze)
 - **Ueli** (24) — Spieler (Jongleur)
 
-**Statisten im Trikot (kommen in Szene 4 dazu, kein/kaum Text):**
+**Werden aus dem Saal nach vorne geholt — bekommen einen Schal:**
 - **Doris** (64), **Thomas** (65), **Annina** (35), **Benjamin** (31)
+- **Elisabeth** (89)
+- **Daniela** (33) — Braut, bleibt im Hochzeitskleid
+- **David** (~33) — Bräutigam, Schlusspointe (Italien-Schal)
 
 **Erwähnt, nicht auf der Bühne:**
 - **Leo** (27) — bei Messi im Trainingslager in Argentinien
-- **Elisabeth** (89) — in Tiefenwies Eier holen
-
-**Werden in Szene 5 nach vorne geholt:**
-- **Daniela** (33) — Braut, bleibt im Hochzeitskleid
-- **David** (~33) — der Bräutigam, Schlusspointe
 
 ---
 
@@ -69,34 +64,29 @@ Armkreisen).*
 
 ---
 
-## Szene 2 — Trainer-Auftritt mit 2010-Anspielung (≈ 1 Min)
+## Szene 2 — Trainer-Auftritt (≈ 1 Min)
 
 `[2.1]` *Andreas kommt als Trainer herein — Trillerpfeife um den
 Hals, Klemmbrett unter dem Arm, evtl. Trainerjacke über dem Trikot.
 Er sieht das Chaos kurz an, schüttelt den Kopf, wendet sich ans
 Publikum.*
 
-`[2.2]` **[ANDREAS]** *(zum Publikum)*
-"Liebe Gäste — kurz zur Erinnerung: **2010**, auch WM-Jahr, da hat
-das **Team Altwegg** schon einmal aufgespielt. Hat geklappt, hat
-Freude gemacht."
-
-`[2.3]` **[ANDREAS]** *(klopft aufs Klemmbrett, energisch)*
-"Aber jetzt ist es höchste Zeit, dass wir das Team wieder zum
+`[2.2]` **[ANDREAS]** *(klopft aufs Klemmbrett, energisch, zum Publikum)*
+"Liebe Gäste — höchste Zeit, dass wir das **Team** wieder zum
 **Trainingslager** zusammenziehen. **WM 2026** wartet nicht."
 
-`[2.4]` **[ANDREAS]** *(seufzt, blickt aufs Klemmbrett, dann ins
+`[2.3]` **[ANDREAS]** *(seufzt, blickt aufs Klemmbrett, dann ins
 Publikum)*
 "Viel Arbeit, all die Spieler zusammenzuziehen… mal schauen, ob wir
 heute auch wirklich **alle hier haben**."
 
-`[2.5]` *Andreas pfeift kurz.*
+`[2.4]` *Andreas pfeift kurz.*
 
-`[2.6]` **[ANDREAS]** *(zum Team)*
+`[2.5]` **[ANDREAS]** *(zum Team)*
 "Aufgepasst, Team! Training in fünf Minuten — bis dahin könnt
 ihr noch durchschnaufen!"
 
-`[2.7]` *Bälle werden weggelegt, das Team versammelt sich locker.*
+`[2.6]` *Bälle werden weggelegt, das Team versammelt sich locker.*
 
 ---
 
@@ -107,7 +97,7 @@ ihr noch durchschnaufen!"
 Tauschen wir noch schnell."
 
 `[3.2]` **[STEFANIE]** *(zieht Album hervor)*
-"Jaaa! Aufgepasst — neue Sammlung: «**Familie Altwegg, WM-Edition 2026**»!"
+"Jaaa! Aufgepasst — neue Sammlung: «**Familie WM-Edition 2026**»!"
 
 `[3.3]` **[SUSANNE]** *(blättert)*
 "Mir fehlt noch die **Daniela** — habt ihr die Daniela?
@@ -176,8 +166,9 @@ zählt nochmals nach, runzelt die Stirn)*
 `[4.14]` **[SUSANNE]**
 "Die **Annina** und die **Doris** waren noch an einem **Pubquiz**…"
 
-`[4.15]` *Doris und Annina trippeln im Trikot von hinten herein und
-stellen sich in die Reihe.*
+`[4.15]` *Annina und Doris werden aus der Hochzeitsgesellschaft nach
+vorne gewunken. Beim Eintreffen hängt ihnen jemand vom Team einen
+Länder-Fussball-Schal um. Sie reihen sich ein.*
 
 `[4.16]` **[ALLE IM CHOR]** *"Aaaah, da kommen sie ja!"*
 
@@ -194,8 +185,8 @@ stellen sich in die Reihe.*
 `[4.20]` **[NOAH]**
 "Der **Thomas** war noch in der **Sauna**…"
 
-`[4.21]` *Thomas kommt mit Handtuch um den Hals herein und reiht
-sich ein.*
+`[4.21]` *Thomas wird aus dem Saal nach vorne gewunken, bekommt
+seinen Schal umgehängt und reiht sich ein.*
 
 `[4.22]` **[ALLE IM CHOR]** *"Aaaah, da kommt er ja!"*
 
@@ -212,8 +203,8 @@ sich ein.*
 `[4.26]` **[STEFANIE]**
 "Der **Benjamin** war noch an einem **Match**…"
 
-`[4.27]` *Benjamin joggt herein, klatscht mit allen ab, reiht sich
-ein.*
+`[4.27]` *Benjamin wird aus dem Saal geholt, bekommt seinen Schal
+umgehängt, reiht sich ein.*
 
 `[4.28]` **[ALLE IM CHOR]** *"Aaaah, da kommt er ja!"*
 
@@ -234,85 +225,70 @@ bei Messi**…"
 "Aaaah, das macht Sinn. **Der lernt dort mehr als hier.**"
 
 `[4.34]` **[MATTHIAS]**
-"Und die **Elisabeth** war noch in **Tiefenwies Eier holen** —
-die kommt gleich."
+"Und die **Elisabeth** — die war noch in **Tiefenwies Eier holen**!"
 
 `[4.35]` **[SUSANNE]** *(zwinkernd)*
-"Sie hat geschrieben, wir sollen schon anfangen — die Eier seien
-noch warm gewesen."
+"Sie hat geschrieben, sie sei jetzt da — die Eier seien noch
+warm gewesen."
 
-`[4.36]` *Alle lachen.*
+`[4.36]` *Elisabeth wird aus dem Saal nach vorne begleitet, bekommt
+ihren Schal umgehängt, reiht sich ein. Kurzer warmer Applaus.*
+
+`[4.37]` **[ALLE IM CHOR]** *"Aaaah, da ist sie ja!"*
 
 ---
 
-## Szene 5 — Daniela holen + Einer fehlt noch: DAVID (≈ 2.5 Min)
+## Szene 5 — Daniela holen + Einer fehlt noch: DAVID (≈ 2 Min)
 
-`[5.1]` **[ANDREAS]** *(blickt suchend, dann ratlos ins Team)*
+`[5.1]` **[ANDREAS]** *(blickt suchend ins Team, dann ratlos)*
 "Und die **Daniela**? Wo ist denn die Braut?"
 
-`[5.2]` **[NOAH]**
-"Mä, die hat heute ein Programm! Die ist zuerst **vom Flughafen
-joggen gegangen**, hat dann noch das **Hochzeitskleid abgeholt**,
-hat auf dem Weg noch **eingekauft** — sie wollte ja für den Besuch
-noch einen **Kuchen backen** — und dann hat sie noch das **Auto bei
-Doris und Thomas geholt**, weil sie übermorgen **umzieht**."
+`[5.2]` **[ALLE SPIELER]** *(rufen Andreas zu)*
+"**Hey, Götti — hol du die Daniela!**"
 
-`[5.3]` **[STEFANIE]**
-"…aber sie kommt gleich."
+`[5.3]` *Andreas geht als Götti zum Hochzeitstisch und holt Daniela
+nach vorne. Sie bleibt im Hochzeitskleid; sobald sie beim Team
+ist, bekommt sie ihren Schal umgehängt — sie steht gut sichtbar
+neben dem Team.*
 
-`[5.4]` **[SUSANNE]** *(ruft Richtung Saal)*
-"Daniela! Jetzt aber! Wir warten!"
+`[5.4]` **[ALLE IM CHOR]** *"Aaaah, da ist sie ja!"*
 
-`[5.5]` *Andreas (als Götti) geht zu Daniela ans Hochzeitstisch
-und holt sie nach vorne. Sie bleibt im Hochzeitskleid, wird neben
-das Team gestellt — nicht in die Reihe der Trikots, sondern
-gut sichtbar daneben.*
-
-`[5.6]` **[ALLE IM CHOR]** *"Aaaah, da ist sie ja!"*
-
-`[5.7]` **[ANDREAS]** *(klopft Daniela auf die Schulter)*
+`[5.5]` **[ANDREAS]** *(klopft Daniela auf die Schulter)*
 "So. Jetzt sind wir komplett. **Abzählen, bitte!**"
 
-`[5.8]` *Alle (Spieler + Statisten + Daniela) zählen der Reihe nach.
-Z.B. bis 11.*
+`[5.6]` *Alle (Spieler + Statisten + Elisabeth + Daniela) zählen
+der Reihe nach. Z.B. bis 11.*
 
-`[5.9]` **[ANDREAS]** *(zählt auf Klemmbrett nach)*
+`[5.7]` **[ANDREAS]** *(zählt auf Klemmbrett nach)*
 "…elf. Mhh. Das reicht knapp. Aber wenn einer umfällt, haben wir
 **keinen Wechselspieler**!"
 
 > 🔁 **REFRAIN #5 — LETZTES MAL — PUBLIKUM voll**
 
-`[5.10]` **[ANDREAS]** *(laut, hebt die Trillerpfeife)*
+`[5.8]` **[ANDREAS]** *(laut, hebt die Trillerpfeife)*
 *"Wer fehlt noch?"*
 
-`[5.11]` **[ALLE + PUBLIKUM]** *(laut)*
+`[5.9]` **[ALLE + PUBLIKUM]** *(laut)*
 *"EINER FEHLT NOCH!"*
 
-`[5.12]` **[ANDREAS]** *(dreht sich zu Daniela, augenzwinkernd zum
-Publikum)*
-"Genau. Und Daniela — als **Götti** schaue ich da natürlich ganz
-genau hin, was das für einer ist, den du da mitbringst."
+`[5.10]` **[ANDREAS]** *(zum Team und Publikum)*
+"Wer ist denn unser **Wechselspieler**?"
 
-`[5.13]` *Daniela rollt die Augen / lacht — gespielt empört.*
-
-`[5.14]` **[ANDREAS]** *(zum Team und Publikum)*
-"Aber: Heute hat sie jemanden dabei. Wer ist denn unser
-**Wechselspieler**?"
-
-`[5.15]` **[UELI]** *(zögert kurz, grinst)*
+`[5.11]` **[UELI]** *(zögert kurz, grinst)*
 "…der **David**?"
 
-`[5.16]` *Stille. Alle drehen sich langsam zu Ueli, dann zueinander.*
+`[5.12]` *Stille. Alle drehen sich langsam zu Ueli, dann zueinander.*
 
-`[5.17]` **[ALLE IM CHOR]** *(staunend, mit aufgehender Erkenntnis)*
+`[5.13]` **[ALLE IM CHOR]** *(staunend, mit aufgehender Erkenntnis)*
 "**David…?**"
 
-`[5.18]` **[ANDREAS]** *(räuspert sich, winkt mit dem Klemmbrett ins
+`[5.14]` **[ANDREAS]** *(räuspert sich, winkt mit dem Klemmbrett ins
 Publikum)*
 "Der soll sich doch bitte mal **vorstellen kommen**!"
 
-`[5.19]` *David wird aus dem Publikum geholt / kommt nach vorne.
-Wird in die Mitte gestellt, Team kreist ihn ein.*
+`[5.15]` *💡 Idee: Hier könnte Baschis **"Bring en hei"** einsetzen,
+während David aus dem Publikum geholt / nach vorne gebracht wird.
+Team kreist ihn ein.*
 
 ---
 
@@ -346,7 +322,7 @@ Frage!)*
 
 `[6.9]` **[ANDREAS]** *(legt David die Hand auf die Schulter,
 feierlich)*
-"So! Dann bist du jetzt offiziell **Teil vom Team Altwegg,
+"So! Dann bist du jetzt offiziell **Teil von unserem Team —
 WM-Edition 2026!**"
 
 `[6.10]` *Alle nicken einander zu, kurzer Applaus / Jubel —
@@ -356,15 +332,14 @@ WM-Edition 2026!**"
 
 ## Szene 7 — Aufnahme ins Team (≈ 1 Min)
 
-`[7.1]` *Susanne überreicht David den signierten Ball (alle
-Mitwirkenden haben vorher unterschrieben). Optional: Captain-Binde
-dazu.*
+`[7.1]` *Susanne hängt David den **Italien-Schal** um (Bezug
+Südtirol). Optional zusätzlich: signierter Ball / Captain-Binde.*
 
 > **Die folgenden Sprüche `[7.2]` bis `[7.6]` sind PLATZHALTER**
 > — werden in separater Spruch-Session individuell entwickelt.
 
 `[7.2]` **[STEFANIE]**
-"Willkommen bei den Altweggs — bei uns kriegt jeder sein
+"Willkommen beim Team — bei uns kriegt jeder sein
 **eigenes Trikot mit Namen drauf**."
 
 `[7.3]` **[SUSANNE]**
@@ -396,12 +371,12 @@ Daniela tritt zu ihm.*
 | Szene | geplant | kumulativ |
 |-------|--------:|----------:|
 | 1 — Einlauf & Aufwärmen | 1.5 min | 1.5 min |
-| 2 — Trainer + 2010-Anspielung | 1.0 min | 2.5 min |
+| 2 — Trainer-Auftritt | 1.0 min | 2.5 min |
 | 3 — Panini-Tausch | 2.0 min | 4.5 min |
-| 4 — Aufstellung & 4 Refrains | 3.0 min | 7.5 min |
-| 5 — Daniela + David hochholen | 2.5 min | 10.0 min |
-| 6 — David-Befragung | 1.5 min | 11.5 min |
-| 7 — Aufnahme & Sprüche | 1.0 min | 12.5 min |
+| 4 — Aufstellung & 4 Refrains (inkl. Elisabeth) | 3.0 min | 7.5 min |
+| 5 — Daniela + David hochholen | 2.0 min | 9.5 min |
+| 6 — David-Befragung | 1.5 min | 11.0 min |
+| 7 — Aufnahme & Sprüche | 1.0 min | 12.0 min |
 
 → Bei flotter Umsetzung **~10–11 Min**, bei vielen Lachern **~12 Min**.
 Reserveplan: Szene 6 auf 4 Fragen kürzen oder einzelne Sprüche in
@@ -411,20 +386,20 @@ Szene 7 (`[7.2]`–`[7.6]`) weglassen.
 
 ## Offene Punkte für nächste Runde
 
-1. **Trikots zuteilen** — siehe `rollen.md`.
+1. **Trikots zuteilen** (für die sechs Spielenden) und **Schals
+   organisieren** (Doris, Thomas, Annina, Benjamin, Elisabeth,
+   Daniela, David). **Italien-Schal für David** priorisieren
+   (Südtirol-Bezug). Bosnien wäre lustig, aber over the top.
 2. **Insider-Fragen** für David schärfen (Beats `[6.3]`, `[6.4]`, `[6.5]`):
    - Bad Reuthe / Känzeli — passt das?
    - Welche Fürst-Anspielung (Liechtenstein?)?
    - Krimi-Dinner — gibt es eine konkrete Familiengeschichte?
 3. **Neue Fragen für `[6.6]` (Noah) und `[6.7]` (Ueli)** — derzeit
-   als TODO markiert. Idealerweise je eine konkrete Frage mit
-   Insider / Sport-Bezug.
+   als TODO markiert.
 4. **Persönliche Sprüche** in Szene 7 (`[7.2]` bis `[7.6]`) — separate
    Spruch-Session einplanen.
-5. **Statisten-Choreografie**: Von welcher Seite kommen Doris/Annina,
-   Thomas, Benjamin auf die Bühne? Wo stehen sie in der Reihe?
-6. **2010-Anspielung in Szene 2** (`[2.2]`): jetzt deutlich knapper —
-   ggf. mit Andreas nochmals durchgehen, ob die kurze Erwähnung
-   reicht oder noch ein Halbsatz mehr drinliegen soll.
-7. **Daniela-Übergabe** in Szene 5 (`[5.5]`): Andreas holt sie als
-   Götti — könnte ein schöner Moment sein. Geht das so?
+5. **Choreografie aus dem Saal**: Wer winkt die Statisten / Elisabeth /
+   Daniela nach vorne? Wer hängt jeweils den Schal um? Reihenfolge
+   und Wege proben.
+6. **Bashi "Bring en hei"** als Musik-Einsatz bei `[5.15]` prüfen —
+   Einspieler vorbereiten, Lautstärke / Ein- und Ausblendung klären.
