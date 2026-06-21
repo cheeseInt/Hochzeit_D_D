@@ -89,6 +89,7 @@
 | 3.6 | Matthias | *(grosszügig)* "Ich habe sie gleich **vier Mal** — du kannst sie haben, ich schenke sie dir." |
 | 3.7 | Stefanie | *(blättert eifrig)* "Ich brauche noch die **Doris** — das ist eine **glänzende** — wer hat die?" |
 | 3.8 | Susanne | *(geschäftstüchtig)* "Ich. Aber dann musst du mir zwei andere dafür geben." |
+| 3.9 | Stefanie | "Gut — du kannst dafür **Thomas** und den **Leo** haben." |
 
 ---
 
@@ -117,9 +118,9 @@
 | 4.5 | Alle | *(der Reihe nach)* "Eins! Zwei! Drei! Vier! Fünf!" |
 | 4.6 | Andreas | *(schaut aufs Klemmbrett, runzelt die Stirn)* "**Wer fehlt denn noch?**" |
 | 4.7 | Alle anderen | "**Öper fählt no!**" |
-| 4.8 | Alle | *Die Gruppe mischt sich wieder durcheinander.* |
-| 4.9 | Matthias | "Die **Annina** — die ist noch auf dem **Jakobsweg**… ach, **da kommt sie ja schon!**" |
-| 4.10 | Andreas | *winkt Annina nach vorne und hängt ihr den Schal um — sie reiht sich ein.* |
+| 4.8 | Matthias | "Die **Annina** — die ist noch auf dem **Jakobsweg**… ach, **da kommt sie ja schon!**" |
+| 4.9 | Andreas | *winkt Annina nach vorne und hängt ihr den Schal um — sie reiht sich ein.* |
+| 4.10 | Alle | *Alle High Five mit **Annina** (die Gruppe mischt sich wieder durcheinander).* |
 
 ---
 
@@ -134,9 +135,9 @@
 | 4.15 | Alle | "Eins, zwei, drei … sechs!" |
 | 4.16 | Andreas | "**Wer fehlt denn noch?**" |
 | 4.17 | Alle anderen | "**Öper fählt no!**" |
-| 4.18 | Alle | *Die Gruppe mischt sich wieder durcheinander.* |
-| 4.19 | Susanne | "Die **Doris** — die ist wohl noch an einem **Pubquiz**… ach, **da kommt sie ja schon!**" |
-| 4.20 | Andreas | *winkt Doris nach vorne und hängt ihr den Schal um — sie reiht sich ein.* |
+| 4.18 | Susanne | "Die **Doris** — die ist wohl noch an einem **Pubquiz**… ach, **da kommt sie ja schon!**" |
+| 4.19 | Andreas | *winkt Doris nach vorne und hängt ihr den Schal um — sie reiht sich ein.* |
+| 4.20 | Alle | *Alle High Five mit **Doris** (die Gruppe mischt sich wieder durcheinander).* |
 
 ---
 
@@ -151,9 +152,9 @@
 | 4.25 | Alle | "Eins, zwei, drei … sieben!" |
 | 4.26 | Andreas | "**Wer fehlt denn noch?**" |
 | 4.27 | Alle anderen | "**Öper fählt no!**" |
-| 4.28 | Alle | *Die Gruppe mischt sich wieder durcheinander.* |
-| 4.29 | Noah | "Der **Thomas** war noch in der **Sauna**… ach, **da kommt er ja schon!**" |
-| 4.30 | Andreas | *winkt Thomas nach vorne und hängt ihm den Schal um — er reiht sich ein.* |
+| 4.28 | Noah | "Der **Thomas** war noch in der **Sauna**… ach, **da kommt er ja schon!**" |
+| 4.29 | Andreas | *winkt Thomas nach vorne und hängt ihm den Schal um — er reiht sich ein.* |
+| 4.30 | Alle | *Alle High Five mit **Thomas** (die Gruppe mischt sich wieder durcheinander).* |
 
 ---
 
@@ -168,9 +169,9 @@
 | 4.35 | Alle | "Eins, zwei, drei … acht!" |
 | 4.36 | Andreas | "**Wer fehlt denn noch?**" |
 | 4.37 | Alle anderen + Publikum | "**Öper fählt no!**" |
-| 4.38 | Alle | *Die Gruppe mischt sich wieder durcheinander.* |
-| 4.39 | Stefanie | "Der **Benjamin** war noch an einem **Match**… ach, **da kommt er ja schon!**" |
-| 4.40 | Andreas | *holt Benjamin aus dem Saal und hängt ihm den Schal um — er reiht sich ein.* |
+| 4.38 | Stefanie | "Der **Benjamin** war noch an einem **Match**… ach, **da kommt er ja schon!**" |
+| 4.39 | Andreas | *holt Benjamin aus dem Saal und hängt ihm den Schal um — er reiht sich ein.* |
+| 4.40 | Alle | *Alle High Five mit **Benjamin** (die Gruppe mischt sich wieder durcheinander).* |
 
 ---
 
@@ -185,9 +186,9 @@
 | 4.45 | Alle | "Eins, zwei, drei … neun!" |
 | 4.46 | Andreas | "**Wer fehlt denn noch?**" |
 | 4.47 | Alle + Publikum | "**Öper fählt no!**" |
-| 4.48 | Alle | *Die Gruppe mischt sich wieder durcheinander.* |
-| 4.49 | Matthias | "Und die **Elisabeth** — die war noch in **Tiefenwies Eier holen**… ach, **da kommt sie ja schon!**" |
-| 4.50 | Andreas | *begleitet Elisabeth nach vorne und hängt ihr den Schal um — sie reiht sich ein. Kurzer warmer Applaus.* |
+| 4.48 | Matthias | "Und die **Elisabeth** — die war noch in **Tiefenwies Eier holen**… ach, **da kommt sie ja schon!**" |
+| 4.49 | Andreas | *begleitet Elisabeth nach vorne und hängt ihr den Schal um — sie reiht sich ein. Kurzer warmer Applaus.* |
+| 4.50 | Alle | *Alle High Five mit **Elisabeth** (die Gruppe mischt sich wieder durcheinander).* |
 
 ---
 
@@ -214,11 +215,11 @@
 |------|----------|---------------|
 | 5.1 | Andreas | "**Aber wer fehlt denn noch?**" |
 | 5.2 | Alle + Publikum | "**Öper fählt no!**" |
-| 5.3 | Alle | *Die Gruppe mischt sich wieder durcheinander.* |
-| 5.4 | Andreas | *(blickt suchend ins Team, dann ratlos)* "Und die **Daniela**? Wo ist denn die Braut?" |
-| 5.5 | Susanne | *(ruft Andreas zu)* "**Hey, Götti — hol du die Daniela!**" |
-| 5.6 | Andreas | *geht als Götti zum Hochzeitstisch und holt Daniela nach vorne. Sie bleibt im Hochzeitskleid; sobald sie beim Team ist, hängt Andreas ihr den Schal um — sie steht gut sichtbar neben dem Team.* |
-| 5.7 | Alle im Chor | *"Aaaah, da ist sie ja!"* |
+| 5.3 | Andreas | *(blickt suchend ins Team, dann ratlos)* "Und die **Daniela**? Wo ist denn die Braut?" |
+| 5.4 | Susanne | *(ruft Andreas zu)* "**Hey, Götti — hol du die Daniela!**" |
+| 5.5 | Andreas | *geht als Götti zum Hochzeitstisch und holt Daniela nach vorne. Sie bleibt im Hochzeitskleid; sobald sie beim Team ist, hängt Andreas ihr den Schal um — sie steht gut sichtbar neben dem Team.* |
+| 5.6 | Alle im Chor | *"Aaaah, da ist sie ja!"* |
+| 5.7 | Alle | *Alle High Five mit **Daniela** (die Gruppe mischt sich wieder durcheinander).* |
 
 > 🔁 **REFRAIN #7 — LETZTES MAL — PUBLIKUM voll**
 
