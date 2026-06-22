@@ -3,7 +3,7 @@
 **Anlass:** Hochzeit Daniela & David, 3. Juli 2026
 **Produktion:** Andreas, Stefanie, Susanne, Matthias, Noah, Ueli
 **Geplante Dauer:** ca. 10 Minuten
-**Version:** v7 (21. Juni 2026 — nach Generalprobe)
+**Version:** v8 (22. Juni 2026 — Szene 5 überarbeitet: Daniela-Ausreden & "Wer kennt noch jemand?")
 
 > **Tasknummern:** Jeder Beat hat eine Nummer im Format `Szene.Beat`
 > (z.B. `[4.7]`). Damit kann man präzise referenzieren ("Beat 5.7 bitte
@@ -215,27 +215,41 @@
 |------|----------|---------------|
 | 5.1 | Andreas | "**Aber wer fehlt denn noch?**" |
 | 5.2 | Alle + Publikum | "**Öper fählt no!**" |
-| 5.3 | Andreas | *(blickt suchend ins Team, dann ratlos)* "Und die **Daniela**? Wo ist denn die Braut?" |
-| 5.4 | Susanne | *(ruft Andreas zu)* "**Hey, Götti — hol du die Daniela!**" |
-| 5.5 | Andreas | *geht als Götti zum Hochzeitstisch und holt Daniela nach vorne. Sie bleibt im Hochzeitskleid; sobald sie beim Team ist, hängt Andreas ihr den Schal um — sie steht gut sichtbar neben dem Team.* |
-| 5.6 | Alle im Chor | *"Aaaah, da ist sie ja!"* |
-| 5.7 | Alle | *Alle High Five mit **Daniela** (die Gruppe mischt sich wieder durcheinander).* |
+| 5.3 | Andreas | *(blickt suchend ins Team)* "Aber wer fehlt denn noch? … **d'Daniela!**" |
+| 5.4 | Noah | "Ja, aber die musste noch ihr **Hochzeitskleid** abholen." |
+| 5.5 | Ueli | "Und sie musste noch einen **Kuchen** backen, weil sie morgen Besuch hat!" |
+| 5.6 | Matthias | "Und sie ist noch eine Runde **joggen** gegangen, um ihren Trainingsplan einzuhalten." |
+| 5.7 | Susanne | "Und sie musste noch eine **Sitzung** vorbereiten für …" |
+| 5.8 | Stefanie | "Und sie musste noch dringend ihre nächsten **Ferien** planen." |
+| 5.9 | Susanne | *(ruft Andreas zu)* "**Hey, Götti — hol du die Daniela!**" |
+| 5.10 | Andreas | *geht als Götti zum Hochzeitstisch und holt Daniela nach vorne. Sie bleibt im Hochzeitskleid; sobald sie beim Team ist, hängt Andreas ihr den Schal um — sie steht gut sichtbar neben dem Team.* |
+| 5.11 | Alle im Chor | *"Aaaah, da ist sie ja!"* |
+| 5.12 | Alle | *Alle High Five mit **Daniela** (die Gruppe mischt sich wieder durcheinander).* |
 
 > 🔁 **REFRAIN #7 — LETZTES MAL — PUBLIKUM voll**
 
 | Nr | Sprecher | Text / Aktion |
 |------|----------|---------------|
-| 5.8 | Andreas | *(klopft Daniela auf die Schulter)* "So. Jetzt sind wir komplett. **Durchzählen, bitte!**" |
-| 5.9 | Alle | *zählen der Reihe nach — bis elf.* |
-| 5.10 | Andreas | *(zählt auf Klemmbrett nach)* "…elf. Mhh. Das reicht knapp. Aber wenn einer umfällt, haben wir **keinen Wechselspieler**!" |
-| 5.11 | Andreas | *(laut, hebt die Trillerpfeife)* "**Wer fehlt denn noch?**" |
-| 5.12 | Alle + Publikum | *(laut)* "**ÖPER FÄHLT NO!**" |
-| 5.13 | Ueli | *(zögert kurz, grinst)* "…der **David**?" |
-| 5.14 | Alle | *Stille. Alle drehen sich langsam zu Ueli, dann zueinander.* |
-| 5.15 | Alle im Chor | *(staunend, mit aufgehender Erkenntnis)* "**David…?**" |
-| 5.16 | Ueli | "Ja, der **David**!" |
-| 5.17 | Alle | "Ach ja, der **David**!" |
-| 5.18 | Andreas | *(räuspert sich, winkt mit dem Klemmbrett ins Publikum)* "Der soll sich doch bitte mal **vorstellen kommen**!" |
+| 5.13 | Andreas | *(klopft Daniela auf die Schulter)* "So. Jetzt sind wir komplett. **Durchzählen, bitte!**" |
+| 5.14 | Alle | *zählen der Reihe nach — bis elf.* |
+| 5.15 | Andreas | *(zählt auf Klemmbrett nach)* "So, jetzt wären wir **knapp genug**. Aber ich finde, es fehlt **immer noch jemand**." |
+| 5.16 | Andreas | *(laut, hebt die Trillerpfeife)* "**Wer fehlt denn noch?**" |
+| 5.17 | Alle + Publikum | *(laut)* "**ÖPER FÄHLT NO!**" |
+| 5.18 | Andreas | "**Wer kennt noch jemand?**" |
+| 5.19 | Noah | "De **Fritz**?" |
+| 5.20 | Alle | "**Nein!**" |
+| 5.21 | Ueli | "De **Hans**?" |
+| 5.22 | Alle | "**Nein!**" |
+| 5.23 | Matthias | "De **Köbi**?" |
+| 5.24 | Alle | "**Nein!**" |
+| 5.25 | Susanne | "De **Ruedi**?" |
+| 5.26 | Alle | "**Nein!**" |
+| 5.27 | Stefanie | "De **Paul**?" |
+| 5.28 | Alle | "**Nein!**" |
+| 5.29 | Ueli | "De **David**?" |
+| 5.30 | Alle | *(alle drehen sich zu Ueli)* "De David?" |
+| 5.31 | Ueli | "Ja, de **David**." |
+| 5.32 | Andreas | *(räuspert sich, winkt mit dem Klemmbrett ins Publikum)* "Wo ist der überhaupt — der soll sich erst mal **vorstellen kommen!**" |
 
 ---
 
